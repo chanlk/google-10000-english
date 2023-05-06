@@ -704,10 +704,10 @@ discussion
 archive
 once
 others
-entertainment
+entertainment - 娱乐
 agreement
 format
-least
+least - 最少
 society
 months
 log
@@ -839,7 +839,7 @@ europe
 reading
 topics
 bad
-individual
+individual - 个人的、独立的
 tips
 plus
 auto
@@ -995,7 +995,7 @@ storage
 oh
 japan
 doing
-loans
+loans - 贷款
 shoes
 entry
 stay
@@ -1025,10 +1025,10 @@ employment
 overall
 bay
 river
-commission
+commission - 委员会、佣金、委托
 ad
 package
-contents
+contents - 目录 content(内容)
 seen
 players
 engine
@@ -1057,7 +1057,7 @@ continue
 across
 benefits
 needed
-season
+season - 季、季节、影视剧季
 apply
 someone
 held
@@ -1146,7 +1146,7 @@ taking
 values
 division
 coming
-tuesday
+tuesday - 星期二
 object
 lesbian
 appropriate
@@ -1195,10 +1195,10 @@ letter
 mode
 phones
 ideas
-wednesday
+wednesday - 星期三
 structure
 fund
-summer
+summer - 夏天
 allow
 degree
 contract
@@ -1246,7 +1246,7 @@ numbers
 reason
 tool
 browser
-spring
+spring - 春天
 foundation
 answer
 voice
@@ -1340,7 +1340,7 @@ kitchen
 strong
 tel
 carolina
-wedding
+wedding - 婚礼
 properties
 hospital
 ground
@@ -1601,7 +1601,7 @@ spain
 southern
 yourself
 etc
-winter
+winter - 冬天
 rape
 battery
 youth
@@ -1628,9 +1628,9 @@ papers
 playing
 awards
 fee
-studio
+studio - 演播室
 reader
-virtual
+virtual - 事实的、几乎的、虚拟的
 device
 established
 answers
@@ -1652,7 +1652,7 @@ remove
 aid
 surface
 minimum
-visual
+visual - 视觉的
 host
 variety
 teachers
@@ -1998,9 +1998,9 @@ po
 letters
 motor
 va
-professor
-context
-install
+professor - 大学教授。指拥有高等教育机构教授资格的学者，专门从事学术教育和研究，以及在特定学科领域具备深厚的知识和专业背景
+context - 上下文，语境
+install - 安装
 shirt
 apparel
 generally
@@ -2134,7 +2134,7 @@ tours
 platform
 load
 affiliate
-labor
+labor - 劳动、劳动工人（尤指体力劳动工人）
 immediately
 admin
 nursing
@@ -2152,7 +2152,7 @@ configuration
 cock
 merchant
 comprehensive
-expert
+expert - 一般指某一领域的专家或专业人士，具备高超的技能和知识。例如，机械工程师、化学家等。这个词也可以用作形容词，表示“熟练的”、“精通的”等。
 universal
 protect
 drop
@@ -2223,7 +2223,7 @@ element
 birth
 virus
 abuse
-interactive
+interactive - 交互、互动
 requests
 separate
 quarter
@@ -2965,7 +2965,7 @@ empty
 instance
 hole
 pets
-ride
+ride - 骑
 licensed
 orlando
 specifically
@@ -3449,10 +3449,10 @@ outlet
 contributions
 continuous
 db
-czech
+czech - 捷克
 resulting
-cambridge
-initiative
+cambridge - 剑桥
+initiative - 提议提案、主动积极性
 novel
 pan
 execution
@@ -3463,7 +3463,7 @@ winner
 idaho
 contractor
 ph
-episode
+episode - 事件、插曲、电视剧的一集
 examination
 potter
 dish
@@ -3523,7 +3523,7 @@ lg
 swiss
 sarah
 clark
-labour
+labour - 劳动、工人
 hate
 terminal
 publishers
@@ -3550,7 +3550,7 @@ twenty
 newly
 raise
 prepare
-avatar
+avatar - 头像
 gary
 depending
 illegal
@@ -4895,7 +4895,7 @@ boost
 spanking
 scholarship
 governance
-mill
+mill - 磨粉机、磨粉厂、工厂（钢铁、羊毛、棉花）
 founded
 supplements
 chronic
@@ -5181,7 +5181,7 @@ payday
 philip
 elite
 gi
-spin
+spin - 旋转、调转
 holders
 believes
 swedish
@@ -6338,7 +6338,7 @@ recruiting
 apparent
 instructional
 phpbb
-autumn
+autumn - 秋天
 traveling
 probe
 midi
@@ -7265,7 +7265,7 @@ carlos
 reno
 donna
 andreas
-warrior
+warrior - 武士
 diploma
 cabin
 innocent
@@ -7353,8 +7353,8 @@ geometry
 impression
 abs
 slovakia
-flip
-guild
+flip - 翻转、翻动、拨开关
+guild - 协会、行会
 correlation
 gorgeous
 capitol
@@ -7550,7 +7550,7 @@ eyed
 ou
 quotations
 grab
-inspector
+inspector - 审查员、巡视员、查票员
 attract
 brighton
 beans
@@ -7796,7 +7796,7 @@ nat
 zoning
 gravity
 providence
-thumb
+thumb - 拇指、竖起拇指请求搭车
 restriction
 incorporate
 backgrounds
@@ -8712,7 +8712,7 @@ metallic
 acne
 blocked
 interference
-warriors
+warriors - 武士、复数
 palestine
 listprice
 libs
@@ -9279,7 +9279,7 @@ editorials
 zinc
 sacrifice
 seekers
-guru
+guru - 大师，带一些宗教性质的感觉。或者带调侃幽默意味的
 isa
 removable
 convergence
@@ -10205,7 +10205,7 @@ flies
 upgraded
 competence
 colorful
-inadequate
+inadequate - 不足的，不够好的；不能胜任的（强调质量或能力）insufficient
 crying
 matthews
 amateurs
@@ -10239,7 +10239,7 @@ oceania
 abundance
 carpenter
 khan
-insufficient
+insufficient - 不充分的；不足的 （强调数量或程度） 见inadequate
 highlands
 peters
 fertility
@@ -10450,7 +10450,7 @@ postgraduate
 doses
 educate
 baked
-glove
+glove - 手套
 daytona
 wastewater
 prejudice
@@ -12814,7 +12814,7 @@ quoting
 sinks
 steep
 dinar
-dynasty
+dynasty - 王朝、代
 creed
 carat
 nan
@@ -13096,7 +13096,7 @@ fluctuations
 bowie
 auth
 archaeological
-inspect
+inspect - 检查、审视
 thrice
 babylon
 gina
@@ -14897,7 +14897,7 @@ catalogues
 aspire
 harvesting
 garfield
-groom
+groom - 新郎
 jewels
 saturated
 georges
@@ -17449,7 +17449,7 @@ assigning
 dwell
 hacked
 inaugural
-awkward
+awkward - 令人尴尬的
 congrats
 msds
 weaving
@@ -18954,7 +18954,7 @@ sheehan
 conversely
 emory
 stunt
-maven
+maven - 专家、内行
 excuses
 commute
 staged
