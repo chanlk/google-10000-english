@@ -1,0 +1,10 @@
+英语中的代词包括人称代词、反身代词、指示代词、疑问代词、关系代词、不定代词等等。
+
+- 人称代词：指示说话者、听话者或者被谈论的人或物，例如：I, you, he, she, it, we, they。
+- 反身代词：表示某个动作的执行者和对象是同一个人或事物，例如：myself, yourself, himself, herself, itself, ourselves, yourselves, themselves。
+- 指示代词：用来指示一个人或者物体的位置或距离，例如：this, that, these, those。
+- 疑问代词：用于提问或询问某个人或物，例如：who, whom, whose, what, which。
+- 关系代词：用于建立句子成分之间的关系，例如：who, whom, whose, that, which。
+- 不定代词：指示泛指的人或物，例如：anyone, someone, nobody, nothing, all, both, each, either, neither。
+
+注意，在不同的语境下，代词的用法也可能有所不同。

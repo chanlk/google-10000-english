@@ -605,7 +605,7 @@ issue
 range
 building
 seller
-court
+court - 法院、
 february
 always
 result
@@ -1097,7 +1097,7 @@ addition
 came
 supply
 nothing
-certain
+certain - 肯定、确定、必然的
 usr
 executive
 running
@@ -1201,16 +1201,16 @@ fund
 summer - 夏天
 allow
 degree
-contract
+contract - 合同、合约；收缩、缩小
 button
 releases
-wed
+wed - 结婚 见marry
 homes
 super
 male
 matter
 custom
-virginia
+virginia - 弗吉尼亚
 almost
 took
 located
@@ -2694,7 +2694,7 @@ forecast
 removed
 helps
 singles
-administrator
+administrator - 管理员
 cycle
 amounts
 contain
@@ -2957,7 +2957,7 @@ seeing
 proof
 dna
 diff
-tennis
+tennis - 网球
 bass
 prescription
 bedroom
@@ -3420,7 +3420,7 @@ challenges
 editors
 mens
 threads
-bowl
+bowl - 碗
 supreme
 brothers
 recognition
@@ -4027,7 +4027,7 @@ marked
 driven
 measured
 medline
-bottle
+bottle - 瓶子
 agreements
 considering
 innovative
@@ -4384,10 +4384,10 @@ lets
 mutual
 pipeline
 necessarily
-syntax
+syntax - 句法 见语法grammar
 li
 attribute
-prison
+prison - 监狱、监禁
 skill
 chairs
 nl
@@ -5824,7 +5824,7 @@ cemetery
 planner
 croatia
 flows
-stadium
+stadium - 大型体育馆，见 Gym
 venezuela
 exploration
 mins
@@ -6022,7 +6022,7 @@ exercises
 starring
 referral
 nhl
-surveillance
+surveillance - 监控；（对犯罪嫌疑人或可能发生犯罪的地方的）监视
 optimal
 quit
 distinct
@@ -6241,7 +6241,7 @@ mandatory
 boundaries
 crucial
 syndication
-gym
+gym - 体育馆(通常是健身房) 见court（网球场等开阔的）
 celebration
 kde
 adjacent
@@ -9904,7 +9904,7 @@ spokesman
 zoloft
 activists
 frankfurt
-prisoner
+prisoner - 犯人
 daisy
 halifax
 encourages
@@ -10257,8 +10257,8 @@ crescent
 bypass
 freshman
 ies
-playground
-negotiate
+playground - 学校操场或公园的儿童游戏场地
+negotiate - 谈判、协商 见bargain
 logout
 sixty
 exploit
@@ -13527,7 +13527,7 @@ vous
 turf
 asphalt
 replay
-improper
+improper - 不得体的
 flavors
 dilemma
 ig
@@ -15955,8 +15955,8 @@ multitude
 tutors
 ezra
 housekeeping
-captive
-kettle
+captive - 俘虏
+kettle - 水壶（煮水的）见 茶壶teapot、bottle
 visitation
 chr
 gibbs
@@ -16987,7 +16987,7 @@ marcel
 terminator
 lad
 hulk
-badminton
+badminton - 羽毛球
 cyan
 ora
 cory
@@ -19991,10 +19991,10 @@ rudolph
 abigail
 missionaries
 yugoslav
-householder
+householder - 户主、房主
 occ
 cpan
 plotting
 yan
 succeeding
-bizjournalshire
+chopsticks - 筷子
