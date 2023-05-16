@@ -3647,7 +3647,7 @@ unable
 periods
 classroom
 tasks
-democracy
+democracy - 民主、民主精神、民主国家
 attacks
 kim
 wallpaper
@@ -4277,7 +4277,7 @@ carrying
 victory
 sand
 madison
-terrorism
+terrorism - 恐怖主义
 joy
 editions
 cpu
@@ -4369,7 +4369,7 @@ nationwide
 vector
 definitely
 shaved
-turning
+turning - 转弯、拐弯 turning point转折点
 buffer
 purple
 existence
@@ -4612,7 +4612,7 @@ ian
 visited
 roof
 walker
-demonstrate
+demonstrate - 演示、示范；证明、论证；示威、示威游行
 atmosphere
 suggests
 kiss
@@ -5418,7 +5418,7 @@ customized
 reed
 involve
 moderate
-terror
+terror - 恐怖 见 horror、afraid
 younger
 thirty
 mice
@@ -5780,7 +5780,7 @@ isp
 remarks
 detected
 decades
-paintings
+paintings - 绘画；油画
 walked
 arising
 nissan
@@ -5792,7 +5792,7 @@ injection
 yorkshire
 populations
 protective
-afraid
+afraid - 害怕、担心
 acoustic
 railway
 cassette
@@ -5893,7 +5893,7 @@ artwork
 cosmetic
 resulted
 portrait
-terrorist
+terrorist - 恐怖分子
 informational
 ethical
 carriers
@@ -8476,12 +8476,12 @@ lucy
 answering
 hans
 impressed
-slope
+slope - 斜坡；见hillside
 reggae
 failures
 poet
 conspiracy
-surname
+surname - 姓氏； 见given name
 theology
 nails
 evident
@@ -9137,7 +9137,7 @@ marvel
 lined
 cio
 dow
-prototype
+prototype - 原型、雏形、样本
 importantly
 rb
 petite
@@ -19368,7 +19368,7 @@ augustus
 aca
 fpo
 fahrenheit
-hillside
+hillside - 山坡；见slope
 standpoint
 layup
 laundering
