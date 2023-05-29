@@ -1345,7 +1345,7 @@ properties
 hospital
 ground
 overview
-ship
+ship - "Ship"通常用于大型船只，如商船或战舰等。它可以指在海洋或内河运行的船只。V 船运、运送 见Boat
 accommodation
 owners
 disease
@@ -1766,7 +1766,7 @@ jack
 flat
 flow
 agencies
-literature
+literature - 文学、文学作品；著作资料
 respective
 parent
 spanish
@@ -1814,10 +1814,10 @@ african
 guy
 titles
 relevant
-guidelines
+guidelines - 准则、指导方针
 justice
 connect
-bible
+bible - 圣经
 dev
 cup
 basket
@@ -2357,7 +2357,7 @@ returned
 pattern
 ct
 hentai
-boat
+boat - 小船 见ship
 named
 theatre
 laser
@@ -3100,7 +3100,7 @@ compensation
 ce
 export
 managers
-aircraft
+aircraft - 飞机、航空器
 modules
 sweden
 conflict
@@ -3241,8 +3241,19 @@ guidance
 mesh
 trail
 enforcement
-symbol
+symbol - 用来代表一种特定事物或概念的符号或标志。 比如 ❤ 、$
 crafts
+确实，"craft"这个词有很多含义和用法。如果你想方便地记忆这个词，你可以尝试记忆这些常见的含义和用法：
+
+1. "craft"可以表示手工艺或工艺品，如"arts and crafts"。这是一个常见的用法，我们通常会将其与艺术、手工和创造性联系在一起。
+
+2. "craft"也可以指一种职业或技能，例如"craftsman"或"craftsperson"。这个用法强调某种技巧或精湛的技能。
+
+3. "craft"还可能是指一种车辆，如"aircraft"或"watercraft"。这个用法强调这种车辆的使用和设计。
+
+4. "craft"还可能指一种计谋、手段或策略，如"diplomatic craft"。这个用法强调精心制定的具有实际作用的计划。
+
+记忆这些常见的含义和用法可以帮助你更好地理解和运用"craft"这个词。
 highway
 buddy
 hardcover
@@ -3749,16 +3760,16 @@ interaction
 listening
 effectively
 registry
-crisis
+crisis - 危机；关键时刻；转折点（需要有危急的感觉）
 outlook
-massive
-denmark
+massive - 大量的
+denmark - 丹麦
 employed
 bright
 treat
 header
 cs
-poverty
+poverty - 穷困
 formed
 piano
 echo
@@ -5746,7 +5757,7 @@ jp
 chi
 bt
 arabia
-gathering
+gathering - 聚会、集会
 projection
 juice
 chase
@@ -7498,7 +7509,7 @@ evaluating
 lip
 subcommittee
 sap
-gather
+gather - 聚集、聚拢
 suse
 maternity
 backed
@@ -10059,7 +10070,7 @@ sewer
 crystals
 kathleen
 bosch
-forthcoming
+forthcoming - 即将到来
 sandisk
 num
 treats
@@ -10318,7 +10329,7 @@ natalie
 receipts
 assisting
 shirley
-sanctions
+sanctions - 制裁
 directv
 goodbye
 viable
@@ -10622,7 +10633,7 @@ infinity
 wk
 handler
 gabon
-notation
+notation - 符号、标记。更多地涉及到数学符号、音乐符号或化学符号等方面，比如π、♩。见symbol
 chandler
 aunt
 interviewed
@@ -15397,7 +15408,7 @@ siding
 kx
 hardest
 forrest
-invitational
+invitational - 邀请赛
 reminders
 negro
 blanca
@@ -18127,7 +18138,7 @@ phillies
 pathetic
 ramblings
 janis
-craftsman
+craftsman - 工匠、手工艺人
 irritation
 rulers
 centric
