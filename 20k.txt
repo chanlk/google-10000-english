@@ -2990,7 +2990,7 @@ stress
 cream
 ss
 runs
-trends
+trends - 趋势；动态
 yeah
 discover
 sexo
@@ -3256,13 +3256,13 @@ crafts
 记忆这些常见的含义和用法可以帮助你更好地理解和运用"craft"这个词。
 highway
 buddy
-hardcover
+hardcover - 精装书
 observed
 dean
 setup
 poll
 booking
-glossary
+glossary - 术语表;词汇表
 fiscal
 celebrity
 styles
@@ -3323,10 +3323,10 @@ efficiency
 sp
 comedy
 adopted
-efficient
+efficient - 高效
 weblog
-linear
-commitment
+linear - 线性的
+commitment - 承诺；保证
 specialty
 bears
 jean
@@ -4413,7 +4413,7 @@ ethernet
 checked
 exhibit
 throw
-trend
+trend - 趋势；动态
 sierra
 visible
 cats
@@ -8622,7 +8622,7 @@ beverages
 calibration
 jake
 eval
-efficiently
+efficiently - adv. 高效的
 anaheim
 ping
 textbook
@@ -10813,7 +10813,7 @@ manila
 auxiliary
 initiate
 ua
-elevated
+elevated - 提高
 purely
 demographics
 fry
@@ -11323,7 +11323,7 @@ strawberry
 chang
 gloria
 counselling
-elevator
+elevator - 电梯
 pupil
 feast
 ecards
@@ -16231,7 +16231,7 @@ endeavor
 creole
 mateo
 meth
-trendy
+trendy - 时髦的；爱时髦的人n.
 teas
 settling
 inpatient
