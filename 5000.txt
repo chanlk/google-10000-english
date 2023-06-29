@@ -996,7 +996,7 @@ passed
 committee
 send
 movement
-democratic
+democratic - 民主的
 original
 older
 religious
@@ -2094,7 +2094,7 @@ keeps
 eastern
 housing
 hoping
-democracy
+democracy - 民主
 canada
 believes
 largely
